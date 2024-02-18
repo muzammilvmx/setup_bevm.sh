@@ -17,10 +17,14 @@ Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Fol
 Step 1: Connect to Your VPS
 
 Step 2: Clone the Script<br>
-`git clone https://github.com/muzammilvmx/bevm-setup.git`
+`curl -O https://raw.githubusercontent.com/muzammilvmx/setup_bevm.sh/main/setup_bevm.sh`
 
 Step 3: Run the Script<br>
-`cd bevm-setup`<br>
-Type the below last command👇<br>
-`./setup_bevm.sh`
+`./setup_bevm.sh`<br>
+
+Step 4:<br>
+💠How to Check Status of my Node?<br>
+🔷Open link:- https://telemetry.bevm.io/ <br>
+Congratulation You are running the BEVM Node by One click only!!<br>
+That's it for now!!!
 
