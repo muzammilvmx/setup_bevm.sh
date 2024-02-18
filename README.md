@@ -11,8 +11,7 @@ Telegram: [Cipher_Airdrop](https://t.me/+tFmYJSANTD81MzE1)
 
 
 <h1>Readme</h1>
-Cipher_Airdrop is trying to help those who doesn't have knowledge about coding or Linux, So with below guide you will be able to run this and
-Setup your BEVM Node with one click Only👏😒
+Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Follow the guide below for a one-click setup of your BEVM Node.👏😒
 
 🌟NODE GUIDE🌟<br>
 Step 1: Connect to Your VPS
